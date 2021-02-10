@@ -1,0 +1,9 @@
+{
+ "editor.fontSize": 18,
+            "files.autoSave": "afterDelay",
+            "editor.renderWhitespace": "all",
+          "editor.tabSize": 10,
+          "editor.cursorStyle": "block",
+          "editor.insertSpaces": false,
+          "editor.formatOnType": true
+}
